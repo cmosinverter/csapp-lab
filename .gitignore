@@ -1,0 +1,18 @@
+# Handout archives (kept locally, extracted into the tracked dirs)
+*.tar
+
+# Build artifacts
+*.o
+*.a
+*.so
+*.tmp
+*.out
+
+# Lab-generated files
+csim
+tracegen
+test-trans
+trace.f*
+.csim_results
+.marker
+*-handin.tar
